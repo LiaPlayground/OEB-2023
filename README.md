@@ -25,9 +25,7 @@ comment: Interactive LiaScript workshop at the OEB 2023 in Berlin.
 ## 1. Introduction & Motivation
 
 
-
-
-
+![Nokia](https://raw.githubusercontent.com/LiaPlayground/LiaScript_Tutorial_Kigali/main/images/nokia.jpeg)
 
 
 ## 2. LiaScript & Markdown
@@ -68,6 +66,19 @@ And another line with some simple math notation $ a= \frac{1}{cos(b)} $!
 
 </section>
 
+    {{2}}
+<section>
+
+## Markdown is everywhere
+
+https://phind.com
+
+__Prompts:__
+
+- Generate a table of the 5 most important Learning Management Systems.
+- Generate an ASCII-art sequence diagram for cooking a soup.
+
+</section>
 
 ### Additional Material
 
@@ -108,7 +119,7 @@ And another line with some simple math notation $ a= \frac{1}{cos(b)} $!
 - Chat: https://gitter.im/LiaScript/community
 
 
-### Tutorial on Alphabe-Soup
+### Tutorial on Alphabet-Soup
 
 A. Basics
 
@@ -305,8 +316,18 @@ __Benefits:__
 
 ## 4. Decentralized Storage
 
+
+![Alexandria](https://raw.githubusercontent.com/LiaPlayground/University-Future-Festival-2023/main/img/alexandria.jpg)
+
+### Git
+
+> Git is a distributed version control system that tracks changes in any set of computer files, usually used for coordinating work among programmers. It was originally created by Linus Torvalds in 2005 for development of the Linux kernel, and has become the most popular version control system.
+>
+> _Source: [Wikipedia](https://en.wikipedia.org/wiki/Git)_
+
     {{1}}
-![](https://raw.githubusercontent.com/LiaPlayground/University-Future-Festival-2023/main/img/alexandria.jpg)
+
+![Git](https://raw.githubusercontent.com/LiaPlayground/University-Future-Festival-2023/main/img/git.png)
 
 ### IPFS & IPNS
 <!--
