@@ -434,6 +434,18 @@ icon: https://raw.githubusercontent.com/AgregoreWeb/agregore-browser/master/buil
         👨🏾‍💻     👩‍💻- - - -
 ```
 
+### LiaScript - Classroom
+
+go to:
+
+[OEB-Classroom](https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaPlayground/OEB-2023/main/Classroom.md)
+
+select share >> Classroom >> GunDB >> OEB23
+
+---
+
+[qr-code](https://liascript.github.io/course/?eyJiYWNrZW5kIjoiR1VOfGZ8aHR0cHM6Ly9wZWVyLndhbGxpZS5pby9ndW4iLCJjb3Vyc2UiOiJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vTGlhUGxheWdyb3VuZC9PRUItMjAyMy9tYWluL0NsYXNzcm9vbS5tZCIsInJvb20iOiJPRUIyMyJ9#1)
+
 ### WebRTC
 
 > The __Web Real-Time Communication__ is a free and open-source project providing web browsers and mobile applications with real-time communication (RTC) via application programming interfaces (APIs).
