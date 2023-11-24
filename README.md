@@ -3,34 +3,82 @@ author:  André Dietrich; Sebastian Zug
 
 mode:    Textbook
 
-comment: Interactive LiaScript workshow at the OEB 2023 in Berlin.
+comment: Interactive LiaScript workshop at the OEB 2023 in Berlin.
 
 -->
 
 # Serverless Online Education
 
 1. Introduction & Motivation
-2. LiaScript & Markdown Cockbook
+2. LiaScript & Markdown Cookbook
 3. Progressive Web Apps
 4. Decentralized Content-Storage
 5. Peer^2^Peer in da Browser & LiaScript-Classrooms
-6. Sharing Laboraties
+6. Sharing Laboratories
 
+    {{1}}
+| Name                    |                 eMail                   |                     Twitter                           |
+| ----------------------- |:---------------------------------------:|:-----------------------------------------------------:|
+| Prof. Dr. Sebastian Zug | [sebastian.zug\@informatik.tu-freiberg.de](mailto:sebastian.zug@informatik.tu-freiberg.de) |    |
+| Dr. André Dietrich      | [LiaScript\@web.de](mailto:LiaScript@web.de) | [\@an_dietrich](https://twitter.com/an_dietrich) |
 
 ## 1. Introduction & Motivation
 
-TODO
+
+
+
+
+
+
+## 2. LiaScript & Markdown
+
+<!-- class="translate" -->
+```markdown             README.md
+# Headline
+
+_a text with **bold** and italic highlighting_
+
+* Point A
+* Point B  
+
+| A       |  Table  |
+|---------|:-------:|
+| with    |   two   |
+| rows    |   ...   |
+
+And another line with some simple math notation $ a= \frac{1}{cos(b)} $!
+```
+
+    {{1}}
+<section>
+
+# Headline
+
+_a text with **bold** and italic highlighting_
+
+* Point A
+* Point B  
+
+| A       |  Table  |
+|---------|:-------:|
+| with    |   two   |
+| rows    |   ...   |
+
+And another line with some simple math notation $ a= \frac{1}{cos(b)} $!
+
+</section>
+
 
 ### Additional Material
 
 - # Resources:
 
-  - Projekt-Webseite: https://LiaScript.github.io
+  - Project-Website: https://LiaScript.github.io
   - Code: https://github.com/liascript
   - YouTube: https://www.youtube.com/channel/UCyiTe2GkW_u05HSdvUblGYg
   - Blog: https://aizac.herokuapp.com/
 
-- # Documentaion:
+- # Documentation:
 
   - GitHub: https://github.com/liaScript/docs
   - LiaScript: https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md
@@ -58,8 +106,6 @@ TODO
 - eMail: LiaScript@web.de
 - Twitter: https://twitter.com/LiaScript
 - Chat: https://gitter.im/LiaScript/community
-
-## 2. LiaScript & Markdown
 
 
 ### Tutorial on Alphabe-Soup
@@ -230,6 +276,14 @@ import:
 > Explore some of the availibe extensions at:
 >
 > https://github.com/topics/liascript-template
+
+### Fullday-Workshop at eLearning Africa 2023
+
+!?[1](https://www.youtube.com/watch?v=U_UW69w0uHE)
+!?[1](https://www.youtube.com/watch?v=8UtlwH0o8FI)
+!?[1](https://www.youtube.com/watch?v=DLk7cKb54IQ)
+!?[1](https://www.youtube.com/watch?v=F1DY7_k6KtQ)
+
 
 ## 3. Progressive Web Apps
 
