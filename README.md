@@ -7,6 +7,13 @@ comment: Interactive LiaScript workshop at the OEB 2023 in Berlin.
 
 -->
 
+[OEB23 Presentation on GitHub](https://github.com/LiaPlayground/OEB-2023)
+
+[OEB23 Presentation on LiaScript](https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaPlayground/OEB-2023/main/README.md)
+
+[OEB23 Presentation in the Live Editor](https://liascript.github.io/LiveEditor/?/show/file/https://raw.githubusercontent.com/LiaPlayground/OEB-2023/main/README.md)
+
+
 # Serverless Online Education
 
 1. Introduction & Motivation
@@ -16,7 +23,8 @@ comment: Interactive LiaScript workshop at the OEB 2023 in Berlin.
 5. Peer^2^Peer in da Browser & LiaScript-Classrooms
 6. Sharing Laboratories
 
-    {{1}}
+---
+
 | Name                    |                 eMail                   |                     Twitter                           |
 | ----------------------- |:---------------------------------------:|:-----------------------------------------------------:|
 | Prof. Dr. Sebastian Zug | [sebastian.zug\@informatik.tu-freiberg.de](mailto:sebastian.zug@informatik.tu-freiberg.de) |    |
